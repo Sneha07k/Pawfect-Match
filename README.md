@@ -1,15 +1,15 @@
-#Pawfect Match
+# Pawfect Match
 Pawfect Match is a web application project focused on helping users discover and connect with pets available for adoption. The goal is to build a simple and user-friendly platform for browsing pet profiles and matching based on preferences.
 
 This project is currently under development and new features are being added step by step.
 
-#Project Status:
+# Project Status:
 
 Work in progress.
 UI structure is created and basic pages are functional. Backend features and matching logic are being developed.
 
 
-#Current Features:
+# Current Features:
 
 Basic homepage and navigation
 
@@ -37,7 +37,7 @@ Deployment
 
 
 
-#Technologies Used:
+# Technologies Used:
 
 HTML
 
@@ -46,7 +46,7 @@ CSS
 JavaScript
 
 
-#Screenshots:
+# Screenshots:
 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/bc311598-b6a3-4576-a809-301c2ea8456d" />
 
