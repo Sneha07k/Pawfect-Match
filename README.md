@@ -48,7 +48,8 @@ JavaScript
 
 # Screenshots:
 
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/bc311598-b6a3-4576-a809-301c2ea8456d" />
+<img width="960" height="508" alt="image" src="https://github.com/user-attachments/assets/3b3643e6-6d4d-4708-96c1-ef3d71c2d687" />
+
 
 <img width="960" height="505" alt="image" src="https://github.com/user-attachments/assets/41ccd6f9-ee3a-44aa-be97-cc81313376e5" />
 
